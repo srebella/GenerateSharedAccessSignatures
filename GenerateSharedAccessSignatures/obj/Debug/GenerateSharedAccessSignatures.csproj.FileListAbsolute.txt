@@ -1,0 +1,17 @@
+C:\Users\santi\source\repos\GenerateSharedAccessSignatures\GenerateSharedAccessSignatures\bin\Debug\GenerateSharedAccessSignatures.exe.config
+C:\Users\santi\source\repos\GenerateSharedAccessSignatures\GenerateSharedAccessSignatures\bin\Debug\GenerateSharedAccessSignatures.exe
+C:\Users\santi\source\repos\GenerateSharedAccessSignatures\GenerateSharedAccessSignatures\bin\Debug\GenerateSharedAccessSignatures.pdb
+C:\Users\santi\source\repos\GenerateSharedAccessSignatures\GenerateSharedAccessSignatures\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\santi\source\repos\GenerateSharedAccessSignatures\GenerateSharedAccessSignatures\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\santi\source\repos\GenerateSharedAccessSignatures\GenerateSharedAccessSignatures\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\santi\source\repos\GenerateSharedAccessSignatures\GenerateSharedAccessSignatures\bin\Debug\Newtonsoft.Json.dll
+C:\Users\santi\source\repos\GenerateSharedAccessSignatures\GenerateSharedAccessSignatures\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\santi\source\repos\GenerateSharedAccessSignatures\GenerateSharedAccessSignatures\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\santi\source\repos\GenerateSharedAccessSignatures\GenerateSharedAccessSignatures\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\santi\source\repos\GenerateSharedAccessSignatures\GenerateSharedAccessSignatures\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Users\santi\source\repos\GenerateSharedAccessSignatures\GenerateSharedAccessSignatures\bin\Debug\Newtonsoft.Json.xml
+C:\Users\santi\source\repos\GenerateSharedAccessSignatures\GenerateSharedAccessSignatures\obj\Debug\GenerateSharedAccessSignatures.csprojAssemblyReference.cache
+C:\Users\santi\source\repos\GenerateSharedAccessSignatures\GenerateSharedAccessSignatures\obj\Debug\GenerateSharedAccessSignatures.csproj.CoreCompileInputs.cache
+C:\Users\santi\source\repos\GenerateSharedAccessSignatures\GenerateSharedAccessSignatures\obj\Debug\GenerateSharedAccessSignatures.csproj.CopyComplete
+C:\Users\santi\source\repos\GenerateSharedAccessSignatures\GenerateSharedAccessSignatures\obj\Debug\GenerateSharedAccessSignatures.exe
+C:\Users\santi\source\repos\GenerateSharedAccessSignatures\GenerateSharedAccessSignatures\obj\Debug\GenerateSharedAccessSignatures.pdb
